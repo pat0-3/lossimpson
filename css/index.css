@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+
+}
+body {
+    background-color: #000000 ;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: "simpsonfont";
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
+@font-face {
+        font-family: "simpsonfont";
+        src: url(font/Simpsonfont\ DEMO.otf);
+}
+
+h2{
+font-family: "simpsonfont";
+color: aliceblue;
+}
+@font-face {
+    font-family: "simpsonfont";
+    src: url(font/Simpsonfont\ DEMO.otf);
+}
+.segundaFila {
+  
+}
+
+.terceraFila {
+    padding: 20px;
+}
+
+
+p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(255, 208, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video1 {
+    padding: 20px;
+}
+
+
+.card {
+    background-color: rgb(65, 65, 65);
+}
