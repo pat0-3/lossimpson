@@ -9,6 +9,7 @@ body {
 }
 
 h1{
+    padding: 20px;
     font-family: "simpsonfont";
     text-align: center;
     color: rgb(255, 255, 255);
@@ -26,8 +27,9 @@ color: aliceblue;
     font-family: "simpsonfont";
     src: url(font/Simpsonfont\ DEMO.otf);
 }
-.segundaFila {
-  
+
+.card {
+    padding: 20px;
 }
 
 .terceraFila {
@@ -50,7 +52,8 @@ p{
 }
 
 .video1 {
-    padding: 20px;
+    padding: 10px;
+  
 }
 
 
